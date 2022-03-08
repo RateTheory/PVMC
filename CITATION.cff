@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PVMC
+message: >-
+  This repository contains scripts for running PVMC
+  and analyzing results.
+type: software
+authors:
+  - given-names: Stephen Jon
+    name-particle: Du
+    family-names: Quiton
+    affiliation: >-
+      Mork Family Department of Chemical Engineering
+      and Materials Science
+  - given-names: Jeongmin
+    family-names: Chae
+    affiliation: >-
+      Ming Hsieh Department of Electrical and
+      Computer Engineering
+  - given-names: Selin
+    family-names: Bac
+    affiliation: >-
+      Mork Family Department of Chemical Engineering
+      and Materials Science
+  - given-names: Kareesa
+    family-names: Kron
+    affiliation: >-
+      Mork Family Department of Chemical Engineering
+      and Materials Science
+  - given-names: Urbashi
+    family-names: Mitra
+    affiliation: >-
+      Ming Hsieh Department of Electrical and
+      Computer Engineering
+  - given-names: Shaama
+    name-particle: Mallikarjun
+    family-names: Sharada
+    email: ssharada@usc.edu
+    affiliation: >-
+      Mork Family Department of Chemical Engineering
+      and Materials Science; Chemistry
