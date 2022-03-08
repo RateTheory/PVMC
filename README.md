@@ -1,7 +1,7 @@
 # PVMC
-Method that utilizes variety-based matrix completion (VMC) aided by polynomial interpolation to recover projected Hessian eigenvalues constituting the minimum energy path of a reaction. This utilizes MATLAB code for the PVMC implementation and Python scripts for computing ZCT constants.
+Method that utilizes variety-based matrix completion (VMC) aided by polynomial interpolation to recover projected Hessian eigenvalues constituting the minimum energy path of a reaction. This utilizes MATLAB code for the PVMC implementation and Python scripts for computing ZCT constants. 
 
-
+## Contents
 ### MATLAB File Descriptions
 1. `Main.m` - Runs PVMC and HVMC on one of the reaction ground truth matrices
 2. `cone_method.m` - Function to find the most optimal columns to sample
@@ -24,3 +24,6 @@ Method that utilizes variety-based matrix completion (VMC) aided by polynomial i
 ### PVMC Procedure:
 1. In `Main.m`, modify `K` (number of MEP points or columns to sample in addition to stationary points) and the `system` to simulate based on the files in MatrixMATs. Other parameters may be adjusted. Run `Main.m`, which results in `results.mat`
 2. To calculate ZCT, run `AnalyzeResults.py` after the creation of `results.mat` in the previous steps.
+
+## Authors
+Stephen Jon Quiton, Jeongmin Chae, Selin Bac, Shaama Sharada. 
