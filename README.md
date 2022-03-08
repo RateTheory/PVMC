@@ -26,4 +26,4 @@ Method that utilizes variety-based matrix completion (VMC) aided by polynomial i
 2. To calculate ZCT, run `AnalyzeResults.py` after the creation of `results.mat` in the previous steps.
 
 ## Authors
-Stephen Jon Quiton, Jeongmin Chae, Selin Bac, Shaama Sharada. 
+Stephen Jon Quiton, Jeongmin Chae, Selin Bac, Kareesa Kron, Urbashi Mitra, Shaama Sharada. 
