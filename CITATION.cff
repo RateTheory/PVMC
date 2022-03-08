@@ -9,7 +9,6 @@ message: >-
 type: software
 authors:
   - given-names: Stephen Jon
-    name-particle: Du
     family-names: Quiton
     affiliation: >-
       Mork Family Department of Chemical Engineering
